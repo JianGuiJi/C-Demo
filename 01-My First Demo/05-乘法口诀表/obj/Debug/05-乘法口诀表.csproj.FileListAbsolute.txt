@@ -1,0 +1,7 @@
+D:\Projects\Csharp\01-My First Demo\05-乘法口诀表\bin\Debug\05-乘法口诀表.exe.config
+D:\Projects\Csharp\01-My First Demo\05-乘法口诀表\bin\Debug\05-乘法口诀表.exe
+D:\Projects\Csharp\01-My First Demo\05-乘法口诀表\bin\Debug\05-乘法口诀表.pdb
+D:\Projects\Csharp\01-My First Demo\05-乘法口诀表\obj\Debug\05-乘法口诀表.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp\01-My First Demo\05-乘法口诀表\obj\Debug\05-乘法口诀表.exe
+D:\Projects\Csharp\01-My First Demo\05-乘法口诀表\obj\Debug\05-乘法口诀表.pdb
+D:\Projects\Csharp\01-My First Demo\05-乘法口诀表\obj\Debug\05-乘法口诀表.csprojAssemblyReference.cache

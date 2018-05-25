@@ -1,0 +1,7 @@
+D:\Projects\Csharp\01-My First Demo\05-for循环练习\bin\Debug\05-for循环练习.exe.config
+D:\Projects\Csharp\01-My First Demo\05-for循环练习\bin\Debug\05-for循环练习.exe
+D:\Projects\Csharp\01-My First Demo\05-for循环练习\bin\Debug\05-for循环练习.pdb
+D:\Projects\Csharp\01-My First Demo\05-for循环练习\obj\Debug\05-for循环练习.csprojAssemblyReference.cache
+D:\Projects\Csharp\01-My First Demo\05-for循环练习\obj\Debug\05-for循环练习.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp\01-My First Demo\05-for循环练习\obj\Debug\05-for循环练习.exe
+D:\Projects\Csharp\01-My First Demo\05-for循环练习\obj\Debug\05-for循环练习.pdb

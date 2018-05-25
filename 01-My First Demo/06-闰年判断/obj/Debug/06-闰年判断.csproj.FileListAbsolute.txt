@@ -1,0 +1,7 @@
+D:\Projects\Csharp\01-My First Demo\06-闰年判断\bin\Debug\06-闰年判断.exe.config
+D:\Projects\Csharp\01-My First Demo\06-闰年判断\bin\Debug\06-闰年判断.exe
+D:\Projects\Csharp\01-My First Demo\06-闰年判断\bin\Debug\06-闰年判断.pdb
+D:\Projects\Csharp\01-My First Demo\06-闰年判断\obj\Debug\06-闰年判断.csprojAssemblyReference.cache
+D:\Projects\Csharp\01-My First Demo\06-闰年判断\obj\Debug\06-闰年判断.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp\01-My First Demo\06-闰年判断\obj\Debug\06-闰年判断.exe
+D:\Projects\Csharp\01-My First Demo\06-闰年判断\obj\Debug\06-闰年判断.pdb

@@ -1,0 +1,7 @@
+D:\Projects\Csharp\01-My First Demo\08-复习\bin\Debug\08-复习.exe.config
+D:\Projects\Csharp\01-My First Demo\08-复习\bin\Debug\08-复习.exe
+D:\Projects\Csharp\01-My First Demo\08-复习\bin\Debug\08-复习.pdb
+D:\Projects\Csharp\01-My First Demo\08-复习\obj\Debug\08-复习.csprojAssemblyReference.cache
+D:\Projects\Csharp\01-My First Demo\08-复习\obj\Debug\08-复习.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp\01-My First Demo\08-复习\obj\Debug\08-复习.exe
+D:\Projects\Csharp\01-My First Demo\08-复习\obj\Debug\08-复习.pdb

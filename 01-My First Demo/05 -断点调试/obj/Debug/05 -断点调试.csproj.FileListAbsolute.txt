@@ -1,0 +1,7 @@
+D:\Projects\Csharp\01-My First Demo\05 -断点调试\bin\Debug\05 -断点调试.exe.config
+D:\Projects\Csharp\01-My First Demo\05 -断点调试\bin\Debug\05 -断点调试.exe
+D:\Projects\Csharp\01-My First Demo\05 -断点调试\bin\Debug\05 -断点调试.pdb
+D:\Projects\Csharp\01-My First Demo\05 -断点调试\obj\Debug\05 -断点调试.csprojAssemblyReference.cache
+D:\Projects\Csharp\01-My First Demo\05 -断点调试\obj\Debug\05 -断点调试.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp\01-My First Demo\05 -断点调试\obj\Debug\05 -断点调试.exe
+D:\Projects\Csharp\01-My First Demo\05 -断点调试\obj\Debug\05 -断点调试.pdb
