@@ -1,0 +1,7 @@
+D:\Projects\Csharp\01-My First Demo\02-My Second Demo\bin\Debug\02-My Second Demo.exe.config
+D:\Projects\Csharp\01-My First Demo\02-My Second Demo\bin\Debug\02-My Second Demo.exe
+D:\Projects\Csharp\01-My First Demo\02-My Second Demo\bin\Debug\02-My Second Demo.pdb
+D:\Projects\Csharp\01-My First Demo\02-My Second Demo\obj\Debug\02-My Second Demo.csprojAssemblyReference.cache
+D:\Projects\Csharp\01-My First Demo\02-My Second Demo\obj\Debug\02-My Second Demo.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp\01-My First Demo\02-My Second Demo\obj\Debug\02-My Second Demo.exe
+D:\Projects\Csharp\01-My First Demo\02-My Second Demo\obj\Debug\02-My Second Demo.pdb
