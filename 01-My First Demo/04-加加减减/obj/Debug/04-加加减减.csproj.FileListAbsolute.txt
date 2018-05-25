@@ -1,0 +1,7 @@
+D:\Projects\Csharp\01-My First Demo\04-加加减减\bin\Debug\04-加加减减.exe.config
+D:\Projects\Csharp\01-My First Demo\04-加加减减\bin\Debug\04-加加减减.exe
+D:\Projects\Csharp\01-My First Demo\04-加加减减\bin\Debug\04-加加减减.pdb
+D:\Projects\Csharp\01-My First Demo\04-加加减减\obj\Debug\04-加加减减.csprojAssemblyReference.cache
+D:\Projects\Csharp\01-My First Demo\04-加加减减\obj\Debug\04-加加减减.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp\01-My First Demo\04-加加减减\obj\Debug\04-加加减减.exe
+D:\Projects\Csharp\01-My First Demo\04-加加减减\obj\Debug\04-加加减减.pdb
