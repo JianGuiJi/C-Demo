@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-三角乘法口诀表", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-类型转换和方法介绍", "05-类型转换和方法介绍\05-类型转换和方法介绍.csproj", "{236297E0-F954-4D3C-A1BE-02E60A556FCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-质数", "05-质数\05-质数.csproj", "{A590BC38-7B5E-40AC-AC63-776A0F1A06FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{236297E0-F954-4D3C-A1BE-02E60A556FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{236297E0-F954-4D3C-A1BE-02E60A556FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{236297E0-F954-4D3C-A1BE-02E60A556FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A590BC38-7B5E-40AC-AC63-776A0F1A06FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A590BC38-7B5E-40AC-AC63-776A0F1A06FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A590BC38-7B5E-40AC-AC63-776A0F1A06FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A590BC38-7B5E-40AC-AC63-776A0F1A06FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
