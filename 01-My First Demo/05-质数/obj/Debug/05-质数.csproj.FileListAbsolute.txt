@@ -1,0 +1,6 @@
+D:\Projects\github\C-Demo\01-My First Demo\05-质数\bin\Debug\05-质数.exe.config
+D:\Projects\github\C-Demo\01-My First Demo\05-质数\bin\Debug\05-质数.exe
+D:\Projects\github\C-Demo\01-My First Demo\05-质数\bin\Debug\05-质数.pdb
+D:\Projects\github\C-Demo\01-My First Demo\05-质数\obj\Debug\05-质数.csproj.CoreCompileInputs.cache
+D:\Projects\github\C-Demo\01-My First Demo\05-质数\obj\Debug\05-质数.exe
+D:\Projects\github\C-Demo\01-My First Demo\05-质数\obj\Debug\05-质数.pdb

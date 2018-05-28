@@ -15,12 +15,26 @@ namespace _05_质数
             int length = 100;
             for (int i = 0; i <= length; i++)
             {
+                bool b = true;
                 //计算规则：从2 到本身前一位 能不能正常
-                for (int j = 2; j < i; j++) {
-                    
+                for (int j = 2; j < i; j++)
+                {
+                    //除尽说明不是质数，也就饿没有再往下继续取余的必要了
+                    if (i % j == 0)
+                    {
+                        b = false;
+                        break;
+                    }
+                }
+                //输入质数
+                if (b)
+                {
+                    Console.WriteLine("质数：" + i);
                 }
 
             }
+            //算法，不是一般人能写的。。。。。
+            Console.ReadKey();
         }
     }
 }
